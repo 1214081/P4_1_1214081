@@ -1,0 +1,8 @@
+C:\Users\SEKOLAH VOKASI\source\repos\P4_1_1214081\P4_1_1214081\bin\Debug\P4_1_1214081.exe.config
+C:\Users\SEKOLAH VOKASI\source\repos\P4_1_1214081\P4_1_1214081\bin\Debug\P4_1_1214081.exe
+C:\Users\SEKOLAH VOKASI\source\repos\P4_1_1214081\P4_1_1214081\bin\Debug\P4_1_1214081.pdb
+C:\Users\SEKOLAH VOKASI\source\repos\P4_1_1214081\P4_1_1214081\obj\Debug\P4_1_1214081.csproj.AssemblyReference.cache
+C:\Users\SEKOLAH VOKASI\source\repos\P4_1_1214081\P4_1_1214081\obj\Debug\P4_1_1214081.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEKOLAH VOKASI\source\repos\P4_1_1214081\P4_1_1214081\obj\Debug\P4_1_1214081.csproj.CoreCompileInputs.cache
+C:\Users\SEKOLAH VOKASI\source\repos\P4_1_1214081\P4_1_1214081\obj\Debug\P4_1_1214081.exe
+C:\Users\SEKOLAH VOKASI\source\repos\P4_1_1214081\P4_1_1214081\obj\Debug\P4_1_1214081.pdb
